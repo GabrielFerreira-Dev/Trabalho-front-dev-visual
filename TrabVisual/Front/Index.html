@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>T2 Programação Visual</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <h1>Tela de cadastro de clientes</h1>
+    <div class="form">
+        <input id="nome-completo" placeholder="Nome Completo" type="text" onblur="validaNome(this.id)" />
+        <input id="cpf" placeholder="CPF" type="number" onblur="validaCpf(this.id)" />
+        <input id="endereco" placeholder="Endereco" type="text" />
+        <input id="idade" placeholder="Idade" type="number" onblur="validaIdade(this.id)"/>
+        <button onclick="cadastrar()">Cadastrar</button>
+        <p>Ir para <a href="listar.html">Lista de Clientes</a></p>
+    </div>
+    <div class="links">
+        <p><a href="Filmes.html">AREA DE FILMES</a></p>
+    </div>
+</body>
+
+</html>

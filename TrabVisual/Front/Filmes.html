@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>T2 Programação Visual</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="ScriptFilmes.js"></script>
+</head>
+
+<body>
+    <h1>Tela para cadastro de filmes</h1>
+    <div class="form">
+        <input id="nome-do-filme" placeholder="Nome do filme" type="text" />
+        <input id="genero" placeholder="Gênero" type="text" onblur="validaGenero(this.id)" />
+        <input id="classificacao" placeholder="Classificação" type="number" onblur="validaClassificacao(this.id)" />
+        <input id="preco" placeholder="Preço" type="number" />
+        <button onclick="cadastrar()">Cadastrar</button>
+        <p>Ir para <a href="ListarFilmes.html">Lista de Filmes</a></p><br>
+    </div>
+    <div class="links">
+        <p><a href="Index.html">AREA DE CLIENTES</a></p>
+    </div>
+</body>
+
+</html>
