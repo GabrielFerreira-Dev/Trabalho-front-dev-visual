@@ -1,7 +1,11 @@
 # Trabalho-front-dev-visual
 WEBAPI de locação para trabalho da faculdade
 
-ALUNOS: Luan Barleze ||  Matheus C  ||  Gabriel Ferreira    
+ALUNOS: Luan Barleze ||  Matheus C  ||  Gabriel Ferreira
+TEMA DO TRABALHO: Locadora de filmes
+TURMA: Desenvolvimento de Software Visual - Quarta 19h00
+INSTRUÇÕES ADICIONAIS (caso tenha alguma problema para rodar que o professor deva saber):
+
 
   *CADASTRAR FILME*
   genero precisa ser uma dessa categorias  ==  Ação e aventura  -- Drama  ---  Comédia romântica --  Ficção científica -- Terror  
