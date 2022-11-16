@@ -8,7 +8,9 @@ ALUNOS: Luan Barleze ||  Matheus C  ||  Gabriel Ferreira
   
   classificacao precisa ser um numero entre 10 e 18
 
-  Atualizar filme apenas atualiza o preco e a classificacao  chave unica == nome do filme  
+  Atualizar filme apenas atualiza o preco e a classificacao  
+  
+  chave unica == nome do filme  
 
 
   *CADASTRAR CLIENTE*
@@ -16,5 +18,7 @@ ALUNOS: Luan Barleze ||  Matheus C  ||  Gabriel Ferreira
    
    idade precisa ser maior de 10 anos
    
-   cpf precisa ter exatos 11 numeros  chave unica ==  cpf
+   cpf precisa ter exatos 11 numeros  
+   
+   chave unica ==  cpf
 
