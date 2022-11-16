@@ -1,7 +1,7 @@
 # Trabalho-front-dev-visual
 WEBAPI de locação para trabalho da faculdade
 
-Barleze      Matheus C      Gabriel Ferreira    
+ALUNOS: Luan Barleze ||  Matheus C  ||  Gabriel Ferreira    
 
   *CADASTRAR FILME*
   genero precisa ser uma dessa categorias  ==  Ação e aventura  -- Drama  ---  Comédia romântica --  Ficção científica -- Terror  
